@@ -1,2 +1,1 @@
-# HadoopAssignment3_3
-Exploring Mapreduce - 3_3
+# Exploring-Map-reduce-Assignment-3.3
